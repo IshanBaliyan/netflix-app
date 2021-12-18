@@ -3,6 +3,7 @@ import { Home, Browse, Signin, Signup } from "./pages"
 
 import * as ROUTES from './constants/routes';
 
+// Main app js file
 
 export default function App() {
   return (
